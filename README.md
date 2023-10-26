@@ -1,4 +1,4 @@
-# ds_task_3
+# Using Detacto for Object Detection
 
 ## Library and Models Used:
 
